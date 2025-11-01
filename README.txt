@@ -5,7 +5,7 @@ Script de bash que configura la terminal para acceder a github
 #
 #eval "$(ssh-add -s)"
 #ssh-add ~/.ssh/nombre_de_tu_clave
-#ssh git@github.com
+#ssh -T git@github.com o ssh -T git@gitlab.com, segun sea el caso.
 #
 #
 #
